@@ -20,7 +20,7 @@ Welcome to my Python practice repository! Here, you'll find various projects and
 
 Check out my video on Google Colab where I demonstrate key Python concepts and execute practical examples.
 
-📹 [Watch the Video Here](#)  
+📹 [Watch the Video Here]((https://github.com/ParimalA24-DS/PythonPractice/tree/main/1.Python_Practic1))  
 # Python Practice Repository
 
 Welcome to my Python practice repository! 🎉 Here, you'll find various Python projects and exercises, organized into different folders. Each folder contains code examples and practice exercises to help you understand and master Python.
@@ -93,8 +93,8 @@ Welcome to my Python practice repository! 🎉 Here, you'll find various Python 
 
 ## 📌 Links
 
-- [Google Colab Notebook](#)  
-- [Practice Code on GitHub](#)
+- [Google Colab Notebook](https://github.com/ParimalA24-DS/PythonPractice/tree/main/1.Python_Practic1)  
+- [Practice Code on GitHub](https://github.com/ParimalA24-DS/PythonPractice/tree/main/1.Python_Practic1)
 
 ## 📝 Feedback & Contributions
 
