@@ -1,5 +1,5 @@
 # Python Practice Repository
-# Python Practice ![Python Logo](https://example.com/path/to/python-logo.png)
+# Python Practice ![Python Logo](https://github.com/ParimalA24-DS/PythonPractice/blob/main/py1.gif)
 
 
 Welcome to my Python practice repository! Here, you'll find various projects and exercises aimed at mastering Python basics and beyond.
